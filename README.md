@@ -1,2 +1,0 @@
-# Ansys-analyses
-Project Repots
